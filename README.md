@@ -1,8 +1,6 @@
 # 🎮 Games Shop
 
-**Games Shop** é um projeto desenvolvido como parte do curso da **EBAC**, utilizando **HTML** e **CSS** para criar uma página web responsiva e estilizada para uma loja de games.
-
-![Games Shop](./caminho-da-imagem.png) <!-- Substitua pelo caminho correto da imagem do seu projeto -->
+**Games Shop** é um projeto desenvolvido como parte do curso da **EBAC**, utilizando **HTML** e **CSS** para criar uma página web responsiva e estilizada para uma loja de games
 
 ## 🚀 Sobre o Projeto
 
@@ -20,7 +18,7 @@ Este projeto foi criado para praticar e aprimorar habilidades em **HTML** e **CS
 
 ## 📷 Captura de Tela
 
-![Preview do Projeto](./caminho-da-imagem.png) <!-- Substitua pelo caminho correto da imagem do seu projeto -->
+![Preview do Projeto](./assets/Prévia_do_projeto) <!-- Substitua pelo caminho correto da imagem do seu projeto -->
 
 ## 📌 Funcionalidades
 
@@ -34,4 +32,5 @@ Este projeto foi criado para praticar e aprimorar habilidades em **HTML** e **CS
 
 1. **Clone o repositório**:
    ```bash
-   git clone https://github.com/seu-usuario/games-shop.git
+   
+
