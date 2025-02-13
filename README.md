@@ -18,7 +18,7 @@ Este projeto foi criado para praticar e aprimorar habilidades em **HTML** e **CS
 
 ## 📷 Captura de Tela
 
-![Preview do Projeto](./assets/Prévia_do_projeto) <!-- Substitua pelo caminho correto da imagem do seu projeto -->
+![Image](https://github.com/user-attachments/assets/ba1c88cb-f3e4-4621-90a4-bc6e40b03dbf) <!-- Substitua pelo caminho correto da imagem do seu projeto -->
 
 ## 📌 Funcionalidades
 
@@ -32,5 +32,5 @@ Este projeto foi criado para praticar e aprimorar habilidades em **HTML** e **CS
 
 1. **Clone o repositório**:
    ```bash
-   
+   https://github.com/GabrielGuimaraesSilva/projeto-1-front-end.git
 
