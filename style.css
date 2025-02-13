@@ -38,6 +38,10 @@ header nav li a {
     margin: 0 auto;
 }
 
+.container li a {
+    font-size: 17px;
+}
+
 header .container,
 section .container {
     display: flex;
@@ -72,3 +76,109 @@ section h2 {
 .store-front {
     margin-right: 128px;
 }
+
+.contact-methods {
+    display: flex;
+    justify-content: space-between;
+    color: #182c61;
+    font-size: 14px;
+    font-weight: bold;
+    margin-bottom: 16px;
+    font-family: 'Bungee', cursive;
+}
+
+.contact-methods p {
+    text-decoration: none;
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-weight: normal;
+}
+
+.contact-methods h3 {
+    font-family: 'Bungee', cursive;
+    font-size: 14px;
+    font-weight: normal;
+    margin-bottom: 8px;
+}
+
+#contact .container {
+    display: block;
+}
+
+form input,
+form textarea,
+form button {
+    display: block;
+    width: 320px;
+    margin-bottom: 8px;
+}
+
+form textarea {
+    resize: none;
+    padding: 8px;
+    font-size: 16px;
+    font-family: 'Roboto', sans-serif;
+    border-radius: 4px;
+}
+
+form button {
+    background-color: #182c61;
+    color: #ecf0f1;
+    border: none;
+    font-weight: bold;
+    font-family: 'Bungee', cursive;
+    cursor: pointer;
+    font-size: 16px;
+    border-radius: 4px;
+}
+
+form button:hover {
+    background-color: #2955cf;
+    color: #ecf0f1;
+    border: none;
+    cursor: pointer;
+    font-size: 16px;
+    font-weight: bold;
+    font-family: 'Bungee', cursive;
+    border-radius: 4px;
+}
+
+form input {
+    font-family: 'Roboto', sans-serif;
+    color: #000000;
+    font-weight: normal;
+    font-size: 14px;
+    padding: 8px;
+    border-radius: 4px;
+}
+
+form input:focus {
+    outline-color: #182c61;
+    border-color: #182c61;
+    box-shadow: 0 0 0 2px #182c61;
+    transition: 0.3s;
+    font-size: 16px;
+}
+
+.contact-methods .social-links img {
+    height: 24px;
+    margin-right: 8px;
+}
+
+.social-links li a {
+    text-decoration: none;
+}
+
+.social-links li {
+    display: inline;
+    margin-right: 8px;
+    margin-top: 16px;
+}
+
+footer {
+    background-color: #182c61;
+    color: #ecf0f1;
+    padding: 16px 0;
+    text-align: center;
+}
+
